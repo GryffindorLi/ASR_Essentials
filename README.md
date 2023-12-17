@@ -5,7 +5,7 @@ This repo contains Numpy code for some important components in Automatic Speech 
 Components that are going to implement are as follows:
 
 - [x] Preprocessing (FBanks & MFCC)
-- [ ] CTC
+- [x] CTC
 - [ ] Beam Search
 - [ ] N-gram LM
 - [ ] Beam Search with n-gram LM
