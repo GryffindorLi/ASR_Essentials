@@ -7,7 +7,7 @@ Components that are going to implement are as follows:
 - [x] Preprocessing (FBanks & MFCC)
 - [x] CTC
 - [x] CTC Beam Search
-- [ ] N-gram LM
+- [x] N-gram LM
 - [ ] Beam Search with n-gram LM
 - [ ] RNN-Transducer
 - [ ] RNN-T Beam Search
