@@ -9,5 +9,3 @@ Components that are going to implement are as follows:
 - [x] CTC Beam Search
 - [x] N-gram LM
 - [x] Beam Search with n-gram LM
-- [ ] RNN-Transducer
-- [ ] RNN-T Beam Search
